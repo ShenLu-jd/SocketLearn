@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketLearnClient", "SocketLearnClient\SocketLearnClient.csproj", "{67444206-60A0-4DF4-A58E-8FF0E9E034CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67444206-60A0-4DF4-A58E-8FF0E9E034CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67444206-60A0-4DF4-A58E-8FF0E9E034CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67444206-60A0-4DF4-A58E-8FF0E9E034CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67444206-60A0-4DF4-A58E-8FF0E9E034CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C33F0A61-138C-4F6F-A429-1ED0B1BEAE1A}
+	EndGlobalSection
+EndGlobal
